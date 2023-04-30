@@ -11,7 +11,7 @@
 
 I'm Konrad Dabrowski!
 
-I'm a computer science student at OsloMet, and founder of OrdinalGenesis a blockchain-technology comapany.
+I'm a computer science student at OsloMet, and founder of OrdinalGenesis a blockchain-technology company.
 
 Currently working on @BitcoinGoblins & @OrdinalRarity
 
