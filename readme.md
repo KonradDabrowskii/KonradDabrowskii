@@ -9,13 +9,9 @@
 
 <br/>
 
-I'm Konrad Dabrowski!
+CEO of Ordinal Genesis
 
-My pursuits encompass both academia and entrepreneurship, as I am a computer science student at OsloMet and work with OrdinalGenesis, a company focused on leveraging blockchain technology to innovate and disrupt various industries.
-
-Currently working on Ordinal Genesis, a technical ordinal studio.
-
-Contact me at konrad.dabrowski02@gmail.com
+I lead operations at the most versatile and stable launchpad for both ordinals and runes.
 
 <br>
 <div style="width: 100%; display: flex">
