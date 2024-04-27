@@ -14,11 +14,4 @@ CEO of Ordinal Genesis
 I lead operations at the most versatile and stable launchpad for both ordinals and runes.
 
 <br>
-<div style="width: 100%; display: flex">
-  <a>
-    <img align="center" width="52%"src="https://github-readme-stats.vercel.app/api?username=KonradDabrowskii&show_icons=true&theme=dark" />
-  </a>
-  <a>
-    <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KonradDabrowskii&show_icons=true&theme=dark&layout=compact" />
-  </a>
 </div>
