@@ -9,9 +9,7 @@
 
 <br/>
 
-CEO of Ordinal Genesis
-
-I lead operations at the most versatile and stable launchpad for both ordinals and runes.
+waaa waaa CEO @ordinalgenesis
 
 <br>
 </div>
